@@ -1,0 +1,10 @@
+import React from "react";
+import { useState } from 'react'
+import {Square} from 'Mangogram\src\assets\Componentes\Busqueda\Square.jsx'
+import {Square1} from 'Mangogram\src\assets\Componentes\Busqueda\Square1.jsx'
+import {Searchbar} from 'Mangogram\src\assets\Componentes\Busqueda\Searchbar.jsx'
+import {Profile} from 'Mangogram\src\assets\Componentes\Busqueda\Profile.jsx'
+import {Mangogramlogo} from 'Mangogram\src\assets\Componentes\Busqueda\Mangogramlogo.jsx'
+import {Lupasearch} from 'Mangogram\src\assets\Componentes\Busqueda\Lupasearch.jsx'
+import {Eliminarall} from 'Mangogram\src\assets\Componentes\Busqueda\Eliminarall.jsx'
+import {Closebutton} from 'Mangogram\src\assets\Componentes\Busqueda\Closebutton.jsx'
